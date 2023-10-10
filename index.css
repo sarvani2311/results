@@ -1,0 +1,32 @@
+body{
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20190223/ourmid/pngtree-simple-technology-blue-background-design-display-boardbackground-materialinnovationtechnologybackground-image_72625.jpg");
+    padding-left: 30%;
+    padding-top: 90px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    align-items: center;
+
+
+}
+div{
+    background-color:rgb(5, 178, 247);
+    width:70%;
+    height:100%;
+    color: white;
+    text-align: center;
+    border-style: double;
+    border:10px solid rgb(149, 117, 214); 
+    /* padding-left: 10%;  */
+    padding-bottom: 30px;
+}
+input{
+     background:transparent; border: none ;border-bottom:3px solid green;width: 80%;
+   padding-top:70px;
+}
+div{
+::placeholder{color:white};
+}
+button{
+    background-color:transparent;margin-top: 25px;
+     width:25%; padding: 10px;border-color:palevioletred ;
+}
